@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df146d73-5eba-4a05-ba20-3ea346add3f9" name="Changes" comment="Commit 24112022 17:25">
+      <change afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/bll/BLLException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/bll/EleveManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/ihm/ConfirmationSuppression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/ihm/Lanceur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/ihm/LanceurConfirmSupp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/ihm/PageAccueil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/ihm/PanelEleve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logAppliEleve.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logAppliEleve.1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logAppliEleve.2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logAppliEleve.3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/0/d/0d24c9a936ed299ae0bb2c8fe9074be901ae5831" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/1/1/11f5c0f808bb1e03099ca8c42923f94f6d59d9ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/7/f/7f86c9a8684035adf6b0c63a5b97e24c5affb164" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/8/f/8f5ea1b322354747066986685b7836dee1a3050e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/9/6/96e9f9293f1f49318e47db595419b50d81534069" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/9/6/96e9f9293f1f49318e47db595419b50d81534069" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/a/8/a8bdc27f38934c9d5fe8332617938a8f5f88361c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/a/b/ab11c77748b3d93cfe4146686ced8e4104107574" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/b/5/b53ff286c3c45479ee6936ba3b71211fd5ec18e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/c/c/cc5ba8ecc2cd27d377123f7689188462e03e6f43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/f/c/fce42b489ca9a717b656dc5700572e812dec38eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/lib/mssql-jdbc-11.2.0.jre11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/bo/Classe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/bo/Classe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/bo/Eleve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/bo/Eleve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/bo/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/bo/Personne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/bo/Professeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/bo/Professeur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/DALException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/DALException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/DAOFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/DAOFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/DBConnexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/DBConnexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/EleveDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/EleveDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/EleveDAOJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/sqlServer/EleveDAOJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/oracle/EleveDAOOracleImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/sqlServer/EleveDAOSqlserverImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/dal/sqlserver/sqlserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/ihm/TestBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/ihm/TestBo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/ihm/TestConnexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/ihm/TestConnexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecole/src/fr/eni/ecole/ihm/TestDAL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcAuto/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../ParcAuto/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f0e378cee657359c3c1f7e03ad94db13909a31c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57c8201984ddd69228f3690e673eb3e27efd39b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6144bf08cbe5ddfc617e4f23fc330823ac852746" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/675d4acc0e3f3008493c5570c4fad61407f1d5b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b65fc8b6a161c247a078ec5b7b8fa96d3cf3b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d2fe73427d2d692de1daf99a28c4925178e19df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0160945310fd122b05d4b069ddadabe50c4bae6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c43c16fc51f57c240d0a3fe33924daf06618dbf9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/eni/papeterie/ihm/Lanceur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/eni/papeterie/ihm/Lanceur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/eni/papeterie/ihm/PageAccueil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/eni/papeterie/ihm/PageAccueil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HiqYvjrQVIuLCWhCLsd8OWiYpA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bgonzalez2022/Desktop/JavaDevEnCouches/ParcAuto&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bgonzalez2022\Desktop\JavaDevEnCouches\TPapeterie\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bgonzalez2022\Desktop\JavaDevEnCouches\TPapeterie\src\fr\eni\papeterie\ressources" />
+      <recent name="C:\Users\bgonzalez2022\Desktop\JavaDevEnCouches\TPapeterie\src\fr\eni\papeterie\ihm" />
+      <recent name="C:\Users\bgonzalez2022\Desktop\JavaDevEnCouches\TPapeterie\src\fr\eni\papeterie\dal" />
+      <recent name="C:\Users\bgonzalez2022\Desktop\JavaDevEnCouches\TPapeterie\src\fr\eni\papeterie\dal\sqlserver" />
+      <recent name="C:\Users\bgonzalez2022\Desktop\JavaDevEnCouches\TPapeterie\lib" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df146d73-5eba-4a05-ba20-3ea346add3f9" name="Changes" comment="" />
+      <created>1668778305359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668778305359</updated>
+      <workItem from="1668778306539" duration="7467000" />
+      <workItem from="1669016787253" duration="998000" />
+      <workItem from="1669027138958" duration="13817000" />
+      <workItem from="1669047608779" duration="663000" />
+      <workItem from="1669104097583" duration="60000" />
+      <workItem from="1669104277182" duration="671000" />
+      <workItem from="1669108191754" duration="10000" />
+      <workItem from="1669109092758" duration="3791000" />
+      <workItem from="1669132184404" duration="17000" />
+      <workItem from="1669190053826" duration="379000" />
+      <workItem from="1669210266536" duration="10752000" />
+      <workItem from="1669275510067" duration="23359000" />
+      <workItem from="1669364606823" duration="1706000" />
+      <workItem from="1669388776665" duration="2575000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit corrigé">
+      <created>1668779444533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668779444533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit corrigé">
+      <created>1668784261837</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668784261837</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit corrigé">
+      <created>1668784316104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668784316104</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit corrigé">
+      <created>1668785124113</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668785124113</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit corrigé">
+      <created>1668789022987</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668789022987</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit corrigé">
+      <created>1668789043793</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668789043793</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit corrigé">
+      <created>1669045644116</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669045644116</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit 24112022 12:29">
+      <created>1669289409395</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669289409395</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit 24112022 12:29">
+      <created>1669300807362</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669300807362</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit 24112022 17:25">
+      <created>1669307155103</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669307155103</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit corrigé" />
+    <MESSAGE value="Commit 24112022 12:29" />
+    <MESSAGE value="Commit 24112022 17:25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 24112022 17:25" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ExceptionInInitializerError" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

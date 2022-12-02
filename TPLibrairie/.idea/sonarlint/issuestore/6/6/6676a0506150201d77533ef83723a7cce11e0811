@@ -1,0 +1,9 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ÑŽßøÿÿÿÿ
+z
+java:S1149<"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùü™‹ÿÿÿÿÿ
+Q
+java:S1117";Rename "montant" which hides the field declared at line 15.(¹ŒÓû
+B
+java:S1481",Remove this unused "montant" local variable.(¹ŒÓû

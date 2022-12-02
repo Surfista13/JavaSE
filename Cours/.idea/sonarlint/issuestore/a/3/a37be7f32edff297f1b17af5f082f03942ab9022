@@ -1,0 +1,11 @@
+
+t
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÀßÊüÿÿÿÿ
+^
+java:S1192`"HDefine a constant instead of duplicating this literal "adresse" 4 times.(ÊõìŽ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤¬÷³
+e
+java:S20959"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(·î¯¾
+V	java:S125"<This block of commented-out lines of code should be removed.(ÁÕÇûÿÿÿÿ
+3
+java:S1116‡"Remove this empty statement.(Ô¨–ý

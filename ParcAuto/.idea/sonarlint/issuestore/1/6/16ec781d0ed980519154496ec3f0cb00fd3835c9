@@ -1,0 +1,25 @@
+
+R
+java:S1854H"<Remove this useless assignment to local variable "parcAuto".(çğØ±
+G
+java:S1481",Remove this unused "voiture" local variable.(ü¥çüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÀİÑ
+Z
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(—åçé
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ª‡¯Ùúÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ä”¨Óÿÿÿÿÿ
+Z
+java:S2147*"DCombine this catch with the one at line 40, which has the same body.(É®£
+M	java:S106."9Replace this use of System.out or System.err by a logger.(–¾¥P
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¬°–
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ôÏü¶
+Z
+java:S2147>"DCombine this catch with the one at line 60, which has the same body.(—åçé
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ñ¶Œÿÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(Àë¾òúÿÿÿÿ
+Z
+java:S2147K"DCombine this catch with the one at line 73, which has the same body.(—åçé
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(Î¦Ş©úÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(Õóöüÿÿÿÿ
+a
+java:S2147V"DCombine this catch with the one at line 84, which has the same body.(É®£8Ë²‚÷Ê0

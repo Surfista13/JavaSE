@@ -1,0 +1,14 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æûÚ¿
+c	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶˜…‡
+W
+java:S1117$"<Rename "voitures" which hides the field declared at line 14.(ú£’Éúÿÿÿÿ
+h	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡×ôºýÿÿÿÿ
+V
+java:S11174";Rename "voiture" which hides the field declared at line 15.(ü¥Žçüÿÿÿÿ
+G
+java:S14814",Remove this unused "voiture" local variable.(ü¥Žçüÿÿÿÿ
+A
+java:S1068"+Remove this unused "voiture" private field.(²°‘œ
+K
+java:S1144"0Remove this unused private "getInstance" method.(£ÿ¿×ýÿÿÿÿ

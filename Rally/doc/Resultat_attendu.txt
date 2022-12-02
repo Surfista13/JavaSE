@@ -1,0 +1,76 @@
+**Composition du Rallye de Corse
+********************************
+Rallye [date=10/06/2012, pays=Corse FR]
+	Speciale [nom=ES1 (Pénitencier Coti – Agosta plage), jour_heure=10/06/2012 02:13, distance=25,89, type epreuve=Qualif]
+	Speciale [nom=ES2 (Sarrola – Plage de Liamone), jour_heure=10/06/2012 04:19, distance=26,70, type epreuve=Speciale]
+	Speciale [nom=ES3 (Le Fangu – ND de la Serra), jour_heure=11/06/2012 08:27, distance=27,53, type epreuve=Speciale]
+
+**Composition de l'équipe Citroen
+*********************************
+Equipe [nom=Citroen, nationalite=FR, constructeur=true]
+	Equipage [dossard=1]
+		Concurrent [nom=LOEB, prenom=Sebastien, nationalite=FR]
+		Concurrent [nom=ELENA, prenom=Daniel, nationalite=FR]
+	Equipage [dossard=2]
+		Concurrent [nom=HIRVONEN, prenom=Mikko, nationalite=FL]
+		Concurrent [nom=LEHTINEN, prenom=Jarma, nationalite=FL]
+
+**Composition de l'équipe Ford
+******************************
+Equipe [nom=Ford, nationalite=USA, constructeur=true]
+	Equipage [dossard=3]
+		Concurrent [nom=PILOTE, prenom=Pilote, nationalite=USA]
+		Concurrent [nom=COPILOTE, prenom=Copilote, nationalite=USA]
+
+**Classement de la spéciale ES2
+*******************************
+Resultat [speciale=Speciale [nom=ES2 (Sarrola – Plage de Liamone), jour_heure=10/06/2012 04:19, distance=26,70, type epreuve=Speciale]
+, equipage=Equipage [dossard=1]
+		Concurrent [nom=LOEB, prenom=Sebastien, nationalite=FR]
+		Concurrent [nom=ELENA, prenom=Daniel, nationalite=FR]
+, temps=03:33 033]
+Resultat [speciale=Speciale [nom=ES2 (Sarrola – Plage de Liamone), jour_heure=10/06/2012 04:19, distance=26,70, type epreuve=Speciale]
+, equipage=Equipage [dossard=3]
+		Concurrent [nom=PILOTE, prenom=Pilote, nationalite=USA]
+		Concurrent [nom=COPILOTE, prenom=Copilote, nationalite=USA]
+, temps=03:40 040]
+Resultat [speciale=Speciale [nom=ES2 (Sarrola – Plage de Liamone), jour_heure=10/06/2012 04:19, distance=26,70, type epreuve=Speciale]
+, equipage=Equipage [dossard=2]
+		Concurrent [nom=HIRVONEN, prenom=Mikko, nationalite=FL]
+		Concurrent [nom=LEHTINEN, prenom=Jarma, nationalite=FL]
+, temps=03:43 043]
+
+**Classement de la spéciale ES3
+*******************************
+Resultat [speciale=Speciale [nom=ES3 (Le Fangu – ND de la Serra), jour_heure=11/06/2012 08:27, distance=27,53, type epreuve=Speciale]
+, equipage=Equipage [dossard=3]
+		Concurrent [nom=PILOTE, prenom=Pilote, nationalite=USA]
+		Concurrent [nom=COPILOTE, prenom=Copilote, nationalite=USA]
+, temps=04:16 016]
+Resultat [speciale=Speciale [nom=ES3 (Le Fangu – ND de la Serra), jour_heure=11/06/2012 08:27, distance=27,53, type epreuve=Speciale]
+, equipage=Equipage [dossard=1]
+		Concurrent [nom=LOEB, prenom=Sebastien, nationalite=FR]
+		Concurrent [nom=ELENA, prenom=Daniel, nationalite=FR]
+, temps=04:20 020]
+Resultat [speciale=Speciale [nom=ES3 (Le Fangu – ND de la Serra), jour_heure=11/06/2012 08:27, distance=27,53, type epreuve=Speciale]
+, equipage=Equipage [dossard=2]
+		Concurrent [nom=HIRVONEN, prenom=Mikko, nationalite=FL]
+		Concurrent [nom=LEHTINEN, prenom=Jarma, nationalite=FL]
+, temps=04:25 025]
+
+**Classement general du Rallye de Corse
+***************************************
+Classement [equipage=Equipage [dossard=1]
+		Concurrent [nom=LOEB, prenom=Sebastien, nationalite=FR]
+		Concurrent [nom=ELENA, prenom=Daniel, nationalite=FR]
+, temps cumulés=07:53 053]
+Classement [equipage=Equipage [dossard=3]
+		Concurrent [nom=PILOTE, prenom=Pilote, nationalite=USA]
+		Concurrent [nom=COPILOTE, prenom=Copilote, nationalite=USA]
+, temps cumulés=07:56 056]
+Classement [equipage=Equipage [dossard=2]
+		Concurrent [nom=HIRVONEN, prenom=Mikko, nationalite=FL]
+		Concurrent [nom=LEHTINEN, prenom=Jarma, nationalite=FL]
+, temps cumulés=08:08 008]
+
+Appuyez sur entrée pour sortir du test...

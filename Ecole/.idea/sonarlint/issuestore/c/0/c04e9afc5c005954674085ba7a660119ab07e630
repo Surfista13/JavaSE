@@ -1,0 +1,12 @@
+
+^
+java:S1192?"HDefine a constant instead of duplicating this literal "adresse" 4 times.(ô±©É
+k
+java:S2095Ô"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ï†è¢ÿÿÿÿÿ
+k
+java:S2095Š"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(«©îÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¥êç·
+Q	java:S125""<This block of commented-out lines of code should be removed.(¦úï¼
+R	java:S125Í"<This block of commented-out lines of code should be removed.(ÄÔÇ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(º¿¥Èúÿÿÿÿ
+R	java:S125ß"<This block of commented-out lines of code should be removed.(¬¯ò«

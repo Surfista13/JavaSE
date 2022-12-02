@@ -1,0 +1,24 @@
+
+w
+java:S1192s"\Define a constant instead of duplicating this literal "une erreur est survenue : 
+" 8 times.(ñà£Éøÿÿÿÿ
+x
+java:S1192ª"\Define a constant instead of duplicating this literal "ERREUR LECTURE DU CATALOGUE" 7 times.(ˆ¦Èúÿÿÿÿ
+G
+java:S1659",Declare "conteneurTitre" on a separate line.(—€Œşÿÿÿÿ
+b
+java:S1659 "GDeclare "btnAjouter" and all following declarations on a separate line.(Æ«àİıÿÿÿÿ
+b
+java:S1659!"LDeclare "btnValiderModif" and all following declarations on a separate line.(†¬¸
+9
+java:S1659%"#Declare "index" on a separate line.(Å‡Üß
+Q	java:S1257"<This block of commented-out lines of code should be removed.(ÉÙ§è
+b
+java:S3252;"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ
+h
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.( Â–-
+^
+java:S1126¤"BReplace this if-then-else statement by a single method invocation.(Û››§ÿÿÿÿÿ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(èåİ
+^
+java:S1126Ü"BReplace this if-then-else statement by a single method invocation.(ç€Ã‹üÿÿÿÿ

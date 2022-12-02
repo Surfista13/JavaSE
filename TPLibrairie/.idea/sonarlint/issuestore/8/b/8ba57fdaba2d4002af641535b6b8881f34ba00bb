@@ -1,0 +1,45 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÜÎ¼
+e
+java:S1192F"JDefine a constant instead of duplicating this literal "ERREUR : " 5 times.(¯ë¦‘ûÿÿÿÿ
+œ
+java:S1192#"€Define a constant instead of duplicating this literal "---------------------------------------------------------------" 6 times.(õ†Œùÿÿÿÿ
+h
+java:S2259@"FA "NullPointerException" could be thrown; "articles" is nullable here.(ÕìÉ–şÿÿÿÿ8Î²®³È0
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¯…·âüÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(”ğĞğøÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(õ†Œùÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(òé’ê
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(„Ì¸Êûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(õ†Œùÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Ç¡Î•ÿÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(õ†Œùÿÿÿÿ
+M
+java:S11356"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(›‡ãô
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(çî÷¸øÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(õ†Œùÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(¯ë¦‘ûÿÿÿÿ
+M
+java:S1135E"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(¯ë¦‘ûÿÿÿÿ
+M
+java:S1135P"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(«–‡ç
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(À‹ùûÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(õ†Œùÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(¯ë¦‘ûÿÿÿÿ
+M
+java:S1135Z"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(úä³µ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(¯ë¦‘ûÿÿÿÿ
+M
+java:S1135g"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(»¡å›şÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(À‹ùûÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(õ†Œùÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(¯ë¦‘ûÿÿÿÿ
+M
+java:S1135q"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ìˆè®

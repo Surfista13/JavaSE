@@ -1,0 +1,75 @@
+
+`	java:S112v"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112â"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û±œ
+e
+java:S11920"JDefine a constant instead of duplicating this literal "reference" 4 times.(ÖÍº‘ûÿÿÿÿ
+c
+java:S11923"MDefine a constant instead of duplicating this literal "prixUnitaire" 4 times.(†ÃÒ 
+e
+java:S1192/"JDefine a constant instead of duplicating this literal "idArticle" 4 times.(–½³ˆûÿÿÿÿ
+b
+java:S11922"LDefine a constant instead of duplicating this literal "designation" 4 times.(¥ˆÚÊ
+d
+java:S11924"IDefine a constant instead of duplicating this literal "qteStock" 4 times.(ò³µµùÿÿÿÿ
+b
+java:S11921"GDefine a constant instead of duplicating this literal "marque" 4 times.(¨´Âûÿÿÿÿ
+X
+java:S1163v"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ
+Y
+java:S1163Ÿ"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ
+Y
+java:S1163â"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ
+O
+java:S1143v"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ
+P
+java:S1143Ÿ"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ
+P
+java:S1143â"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ
+…
+java:S4165’"nRemove this useless assignment; "articleAModifier" already holds the assigned value along all execution paths.(‚ÁÎ¹
+„
+java:S4165¹"mRemove this useless assignment; "artickeAInserer" already holds the assigned value along all execution paths.(Í·œ
+Š
+java:S4165"nRemove this useless assignment; "articleAModifier" already holds the assigned value along all execution paths.(»èĞÿÿÿÿÿ
+‰
+java:S4165´"mRemove this useless assignment; "artickeAInserer" already holds the assigned value along all execution paths.(¦ªø¬ûÿÿÿÿ
+r
+java:S1845"WRename method "selectAll" to prevent any misunderstanding/clash with field "SELECTALL".(ßÎ¶äÿÿÿÿÿ
+t
+java:S1845J"YRename method "selectById" to prevent any misunderstanding/clash with field "SELECTBYID".(½£çæûÿÿÿÿ
+g
+java:S1845}"QRename method "update" to prevent any misunderstanding/clash with field "UPDATE".(‚ŒÏ
+h
+java:S1845¥"QRename method "insert" to prevent any misunderstanding/clash with field "INSERT".(ÓÈóª
+m
+java:S1845Ò"QRename method "delete" to prevent any misunderstanding/clash with field "DELETE".(–ñÒ»ûÿÿÿÿ
+œ
+java:S1130"€Remove the declaration of thrown exception 'fr.eni.librairie.exception.DALException', as it cannot be thrown from method's body.(ßÎ¶äÿÿÿÿÿ
+G
+java:S1481 ",Remove this unused "article" local variable.(Œâì¾ûÿÿÿÿ
+E
+java:S19056"*Remove this unnecessary cast to "Article".(‰—–Úÿÿÿÿÿ
+E
+java:S1905@"*Remove this unnecessary cast to "Article".(ŸÒÆ‡úÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+C
+java:S1481€"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿ
+D
+java:S1905"(Remove this unnecessary cast to "Stylo".(»èĞÿÿÿÿÿ
+A
+java:S1905’"*Remove this unnecessary cast to "Ramette".(‚ÁÎ¹
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+_
+java:S3252«"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(Ú¬ÃŸ
+D
+java:S1905´"(Remove this unnecessary cast to "Stylo".(¦ªø¬ûÿÿÿÿ
+A
+java:S1905¹"*Remove this unnecessary cast to "Ramette".(Í·œ
+C
+java:S1481Á"'Remove this unused "rs" local variable.(‡²«üÿÿÿÿ
+O	java:S106Æ"9Replace this use of System.out or System.err by a logger.(¸¤ˆ’
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
